@@ -1,0 +1,1 @@
+This is a simple project to practice JavaScript. The aim of this project is to create a color flipper, and when the button is clicked, the background color must change, and it must be shown what color was selected.
